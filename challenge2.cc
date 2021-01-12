@@ -7,7 +7,7 @@ int main(){
     for(int i=0;i<t;i++){
         
         int n;
-        cin>>n;
+        cin>>n;//aman chandel
 
         string s;
         cin>>s;
